@@ -24,6 +24,6 @@
 
 ---
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akinarihex&show_icons=true&locale=en" alt="akinarihex" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akinarihex&show_icons=true&locale=en&layout=compact" alt="akinarihex" /></p>
-<a href="https://app.daily.dev/AkinariHex"><img src="https://github.com/AkinariHex/AkinariHex/blob/master/devcard.svg" width="400" alt="Akinari's Dev Card"/></a>
+<a href="https://app.daily.dev/AkinariHex"><img src="https://github.com/AkinariHex/AkinariHex/blob/master/devcard.svg" width="320" alt="Akinari's Dev Card"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=akinarihex&show_icons=true&locale=en" alt="akinarihex" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akinarihex&show_icons=true&locale=en&layout=compact" alt="akinarihex" />
