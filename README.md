@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [osu! Tourney Match Displayer](https://otmd.app)
 
-- 🌱 I’m currently learning **TypeScript and more FrontEnd stuff!**
+- 🌱 I’m currently learning **TypeScript and more Front-end stuff!**
 
 - 📫 How to reach me **akinaricoding@outlook.it**
 
