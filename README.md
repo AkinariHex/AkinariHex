@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovanni</h1>
 <h3 align="center">A Front-end Web Developer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akinarihex&label=Profile%20views&color=0e75b6&style=flat" alt="akinari-hex" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akinarihex&label=Profile%20views&color=0e75b6&style=flat" alt="akinarihex" /> </p>
 
 - 🔭 I’m currently working on [osu! Tourney Match Displayer](https://otmd.app) and [osu! Tournament Rating](https://otr.stagec.xyz)
 
