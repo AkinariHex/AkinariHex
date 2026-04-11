@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akinarihex&label=Profile%20views&color=0e75b6&style=flat" alt="akinari" /> </p>
 
-- 🔭 I’m currently working on [osu! Tourney Match Displayer](https://otmd.app) and [osu! Tournament Rating](https://otr.stagec.xyz)
+- 🔭 I’m currently working on [osu! Tourney Match Displayer](https://otmd.app) and [osu! Tournament Rating](https://otr.stagec.net)
 
 - 🌱 I’m currently learning **TypeScript and more Front-End stuff!**
 
